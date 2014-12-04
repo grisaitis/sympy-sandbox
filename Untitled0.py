@@ -3,8 +3,12 @@
 
 # <codecell>
 
+# referencing:
+# http://zulko.wordpress.com/2012/04/15/symbolic-matrix-differentiation-with-sympy/
+
+# <codecell>
+
 import sympy
-from sympy import symbol
 
 # <codecell>
 
